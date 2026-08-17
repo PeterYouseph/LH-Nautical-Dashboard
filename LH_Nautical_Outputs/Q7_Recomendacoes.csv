@@ -1,0 +1,101 @@
+Produto,Produto_ID,Similar,Similar_ID,Similaridade,Rank
+Motor de Popa 6014,1,Motor de Popa 1540,308,0.227066,1
+Motor de Popa 6014,1,Cabo Náutico 7039,368,0.196767,2
+Motor de Popa 6014,1,GPS Plotter 6249,55,0.195840,3
+Motor de Popa 6014,1,Bateria Náutica 4683,195,0.191583,4
+Motor de Popa 6014,1,GPS Plotter 3107,190,0.190672,5
+Vela Mestra 3870,2,Bússola de Bordo 7024,303,0.200232,1
+Vela Mestra 3870,2,Bússola de Bordo 8959,191,0.199510,2
+Vela Mestra 3870,2,Genérico,486,0.198134,3
+Vela Mestra 3870,2,Bússola de Bordo 180,333,0.197630,4
+Vela Mestra 3870,2,Motor de Popa 9450,469,0.194952,5
+Tinta Antifouling 5479,3,Vela Mestra 1834,176,0.192436,1
+Tinta Antifouling 5479,3,Colete Salva-Vidas 8571,78,0.182705,2
+Tinta Antifouling 5479,3,Cabo Náutico 9307,237,0.177046,3
+Tinta Antifouling 5479,3,GPS Plotter 2111,156,0.174581,4
+Tinta Antifouling 5479,3,Vela Mestra 8056,158,0.174170,5
+Sonar Transducer 9933,4,Bússola de Bordo 1762,366,0.202615,1
+Sonar Transducer 9933,4,Sonar Transducer 9366,188,0.190672,2
+Sonar Transducer 9933,4,Vela Mestra 5825,118,0.184784,3
+Sonar Transducer 9933,4,GPS Plotter 2249,311,0.179784,4
+Sonar Transducer 9933,4,Âncora Bruce 3597,37,0.167632,5
+Bússola de Bordo 3641,5,GPS Plotter 9763,430,0.200047,1
+Bússola de Bordo 3641,5,Hélice de Alumínio 4633,71,0.192693,2
+Bússola de Bordo 3641,5,Motor de Popa 9800,268,0.191164,3
+Bússola de Bordo 3641,5,Colete Salva-Vidas 4674,441,0.190574,4
+Bússola de Bordo 3641,5,Bússola de Bordo 2331,475,0.189131,5
+Defensa Náutica 7487,6,Defensa Náutica 6521,127,0.204428,1
+Defensa Náutica 7487,6,Motor de Popa 7678,81,0.201638,2
+Defensa Náutica 7487,6,Sonar Transducer 7919,383,0.192041,3
+Defensa Náutica 7487,6,asdf,187,0.190986,4
+Defensa Náutica 7487,6,Motor de Popa 1540,308,0.190312,5
+Cabo Náutico 4894,7,Cabo Náutico 7039,368,0.189573,1
+Cabo Náutico 4894,7,Motor de Popa 7678,81,0.189257,2
+Cabo Náutico 4894,7,Bateria Náutica 5770,435,0.185398,3
+Cabo Náutico 4894,7,Genérico,486,0.179457,4
+Cabo Náutico 4894,7,Cabo Náutico 2300,373,0.168131,5
+Cabo Náutico 1373,8,Bateria Náutica 1945,77,0.161786,1
+Cabo Náutico 1373,8,Bateria Náutica 3343,379,0.150819,2
+Cabo Náutico 1373,8,Bússola de Bordo 702,74,0.150129,3
+Cabo Náutico 1373,8,Colete Salva-Vidas 8571,78,0.146365,4
+Cabo Náutico 1373,8,Motor de Popa 7678,81,0.144490,5
+Tinta Antifouling 874,9,Cabo Náutico 9307,237,0.209186,1
+Tinta Antifouling 874,9,Motor de Popa 8838,453,0.206149,2
+Tinta Antifouling 874,9,Caboo Náutico 4942,152,0.201394,3
+Tinta Antifouling 874,9,Motor de Popa 1540,308,0.198793,4
+Tinta Antifouling 874,9,Motor de Popa 8825,442,0.193714,5
+Colete Salva-Vidas 6199,10,Bateria Náutica 4683,195,0.160821,1
+Colete Salva-Vidas 6199,10,GPS Plotter 2659,167,0.141369,2
+Colete Salva-Vidas 6199,10,Bússola de Bordo 4621,301,0.135380,3
+Colete Salva-Vidas 6199,10,Hélice de Alumínio 6549,85,0.132456,4
+Colete Salva-Vidas 6199,10,Bateria Náutica 1358,264,0.131913,5
+Hélice de Alumínio 4091,11,Cabo Náutico 4571,272,0.177705,1
+Hélice de Alumínio 4091,11,Colete Salva-Vidas 8800,257,0.174915,2
+Hélice de Alumínio 4091,11,Defensa Náutica 792,465,0.172013,3
+Hélice de Alumínio 4091,11,Motor de Popa 8838,453,0.169155,4
+Hélice de Alumínio 4091,11,Âncora Bruce 326,108,0.166716,5
+Cabo Náutico 8028,12,Sonar Transducer 5950,111,0.148928,1
+Cabo Náutico 8028,12,Motor de Popa 1376,439,0.148653,2
+Cabo Náutico 8028,12,Bússola de Bordo 7825,254,0.144482,3
+Cabo Náutico 8028,12,Vela Mestra 7171,144,0.141962,4
+Cabo Náutico 8028,12,Hélice de Alumínio 1155,110,0.139556,5
+GPS Plotter 7021,13,Motor de Popa 9800,268,0.141104,1
+GPS Plotter 7021,13,Motor de Popa 9417,479,0.137125,2
+GPS Plotter 7021,13,Sonar Transducer 7919,383,0.136252,3
+GPS Plotter 7021,13,Bateria Náutica 2619,322,0.133635,4
+GPS Plotter 7021,13,Defensa Náutica 3153,29,0.132917,5
+Defensa Náutica 1161,14,GPS Plotter 7720,498,0.171269,1
+Defensa Náutica 1161,14,Hélice de Alumínio 5784,232,0.170915,2
+Defensa Náutica 1161,14,Bússola de Bordo 8959,191,0.169815,3
+Defensa Náutica 1161,14,Sonar Transducer 7193,408,0.167307,4
+Defensa Náutica 1161,14,Colete Salva-Vidas 2374,456,0.164750,5
+Bússola de Bordo 6287,15,Motor de Popa 1949,180,0.159074,1
+Bússola de Bordo 6287,15,Defensa Náutica 2783,150,0.149919,2
+Bússola de Bordo 6287,15,Bateria Náutica 6370,436,0.139009,3
+Bússola de Bordo 6287,15,Bateria Náutica 3427,39,0.133613,4
+Bússola de Bordo 6287,15,Tinta Antifouling 6054,468,0.130568,5
+Hélice de Alumínio 8340,16,Sonar Transducer 1690,203,0.200013,1
+Hélice de Alumínio 8340,16,Bateria Náutica 1945,77,0.194459,2
+Hélice de Alumínio 8340,16,Motor de Popa 8825,442,0.194124,3
+Hélice de Alumínio 8340,16,GPS Plotter 3319,135,0.193275,4
+Hélice de Alumínio 8340,16,Sonar Transducer 1236,92,0.192703,5
+GPS Plotter 3436,17,Tinta Antifouling 9285,130,0.184672,1
+GPS Plotter 3436,17,Bússola de Bordo 5451,259,0.175213,2
+GPS Plotter 3436,17,GPS Plotter 2659,167,0.165289,3
+GPS Plotter 3436,17,Motor de Popa 1376,439,0.162526,4
+GPS Plotter 3436,17,Colete Salva-Vidas 326,239,0.162483,5
+Âncora Bruce 7120,18,Hélice de Alumínio 5003,493,0.155350,1
+Âncora Bruce 7120,18,Motor de Popa 6346,251,0.150745,2
+Âncora Bruce 7120,18,Cabo Náutico 2300,373,0.148052,3
+Âncora Bruce 7120,18,Tinta Antifouling 3404,334,0.147414,4
+Âncora Bruce 7120,18,Sonar Transducer 7193,408,0.145110,5
+Âncora Bruce 4405,19,Tinta Antifouling 866,256,0.193616,1
+Âncora Bruce 4405,19,Âncora Bruce 831,312,0.191370,2
+Âncora Bruce 4405,19,Hélice de Alumínio 7333,304,0.181227,3
+Âncora Bruce 4405,19,GPS Pltoter 3205,340,0.172416,4
+Âncora Bruce 4405,19,Tinta Antifouling 6054,468,0.169550,5
+GPS Plotter 7169,20,Motor de Popa 1845,70,0.177001,1
+GPS Plotter 7169,20,Motor de Popa 6404,406,0.172020,2
+GPS Plotter 7169,20,Sonar Transducer 4635,31,0.167604,3
+GPS Plotter 7169,20,Bateria Náutica 8635,115,0.166975,4
+GPS Plotter 7169,20,Bateria Náutica 4683,195,0.165899,5

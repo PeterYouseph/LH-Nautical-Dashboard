@@ -1,0 +1,25 @@
+Tabela,Linhas,Colunas,Tipos,Memória (MB)
+addresses,3998,12,"int64, object, bool",1.85
+attributes,8,3,"int64, object",0.0
+brands,12,6,"int64, object, bool",0.0
+categories,14,7,"int64, object, float64",0.0
+customers,2000,11,"int64, object, bool",0.95
+employees,15,11,"int64, object, bool",0.01
+fiscal_invoices,34365,11,"int64, object, float64",18.58
+goods_receipts,1548,6,"int64, object",0.29
+goods_receipt_items,4733,4,"int64, float64",0.14
+locations,6,14,"int64, object, bool",0.0
+orders,48998,13,"int64, object, float64",20.02
+order_items,147320,8,"int64, float64",8.99
+payments,53546,9,"int64, object, float64",17.41
+products,500,10,"int64, object, bool",0.19
+product_suppliers,1520,8,"int64, object, float64",0.33
+product_variants,1009,12,"int64, object, float64",0.25
+purchase_orders,2000,13,"int64, object, float64",0.91
+purchase_order_items,6059,6,"int64, float64",0.28
+returns,980,10,"int64, object, float64",0.35
+return_items,1384,7,"int64, float64, object",0.14
+stock_levels,6054,5,"int64, float64, object",0.58
+stock_movements,115312,11,"int64, object, float64",36.69
+suppliers,25,12,"int64, object, bool",0.01
+variant_attribute_values,2018,3,"int64, object",0.14

@@ -1,0 +1,66 @@
+{
+  "titulo": "LH Nautical - Desafio Lighthouse",
+  "data_execucao": "2026-08-17T01:02:05.105072",
+  "status": "✅ COMPLETO",
+  "questoes": {
+    "Q1": {
+      "titulo": "Ticket Médio",
+      "resultado": "R$ 28,704.99",
+      "mediano": "R$ 25,917.84",
+      "validacao": "Sem valores nulos ou duplicatas"
+    },
+    "Q2": {
+      "titulo": "Schema Database",
+      "total_tabelas": 24,
+      "total_linhas": 433424,
+      "validacao": "Integridade 100%"
+    },
+    "Q3": {
+      "titulo": "PostgreSQL Loader",
+      "linhas_totais": 433424,
+      "validacao": "Função implementada com SQLAlchemy"
+    },
+    "Q4": {
+      "titulo": "Top 10 Clientes",
+      "clientes_elite": 10,
+      "filtro": "diversidade_categorias >= 13",
+      "ordenacao": "ticket_medio DESC, customer_id ASC"
+    },
+    "Q5": {
+      "titulo": "Vendas por Dia Semana",
+      "melhor_dia": "Quarta",
+      "faturamento_melhor_dia": 205294168.39,
+      "total_faturamento": 1406487201.8000002,
+      "validacao": "Calendário completo com zeros"
+    },
+    "Q6": {
+      "titulo": "Bústula de Bordo 702",
+      "total_vendido": 1760,
+      "forecast_q1_2026": 71,
+      "forecast_detalhado": {
+        "janeiro": 25,
+        "fevereiro": 25,
+        "marco": 21
+      },
+      "mae": 28.02,
+      "validacao": "Previsão validada"
+    },
+    "Q7": {
+      "titulo": "Recomendação Produto x Produto",
+      "total_produtos": 500,
+      "metodo": "Cosine Similarity",
+      "teste_principal": "Motor de Popa 1949 → Similaridade calculada",
+      "validacao": "Matriz transposta corretamente"
+    }
+  },
+  "resumo_entregas": [
+    "Q1_Ticket_Medio.json",
+    "Q2_Schema.csv",
+    "Q3_PostgreSQL_Loader.py",
+    "Q4_Top10_Clientes.csv",
+    "Q5_Vendas_Dia_Semana.csv",
+    "Q6_Forecast_Bussola.csv",
+    "Q7_Recomendacoes.csv",
+    "RELATORIO_FINAL.json"
+  ]
+}
